@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-    color: #525252;
+    color: #85C598;
     text-decoration: none;
 }
 
@@ -17,15 +17,15 @@ p {
     font-size: 15px;
     line-height: 26px;
     font-weight: 500;
-    color: #535353;
+    color:#85C598;
 }
 
 strong {
-    color: #535353;
+    color:#85C598;
 }
 
 span {
-    color: #535353;
+    color:#85C598;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -38,7 +38,7 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    color: #535353;
+    color:#85C598;
 }
 
 .btn.focus, .btn:focus {
@@ -83,7 +83,7 @@ ul {
 }
 
 .google-bg {
-    background: #db4437;
+    background: #4E1219;
     color: #fff;
 }
 
@@ -844,7 +844,7 @@ input[type=checkbox]:checked + label:before {
 
 .main-header .dropdown-menu a {
     padding: 12px 20px;
-    color: #535353;
+    color:#85C598;
     transition: all .3s ease-in-out;
     text-transform: none;
     font-weight: 400;
@@ -877,7 +877,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .megamenu-title {
-    color: #535353;
+    color:#85C598;
     font-size: 15px;
     font-weight: 500;
     border-bottom: 1px solid #eee;
@@ -2266,7 +2266,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .car-box .footer {
-    color: #535353;
+    color:#85C598;
     font-size: 15px;
     border-top: solid 1px #efefef;
 }
@@ -2310,7 +2310,7 @@ input[type=checkbox]:checked + label:before {
 
 .car-model-2 .car-modal .modal-left {
     padding: 0;
-    background: #535353;
+    background:#85C598;
     color: #fff;
 }
 
@@ -2436,7 +2436,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .car-model-2 .modal-right-content .bullets {
-    color: #535353;
+    color:#85C598;
     font-size: 15px;
     font-weight: 400;
     padding: 0px;
@@ -2495,7 +2495,7 @@ input[type=checkbox]:checked + label:before {
 .car-model-2 .modal-right-content dl {
     margin-bottom: 20px;
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
 }
 
 .car-model-2 .modal-right-content dl dt {
@@ -2654,13 +2654,13 @@ input[type=checkbox]:checked + label:before {
     font-size: 15px;
     position: relative;
     top: -25px;
-    color: #535353;
+    color:#85C598;
     font-weight: 600;
 }
 
 .price-box-3 span {
     font-size: 15px;
-    color: #535353;
+    color:#85C598;
     font-weight: 600;
 }
 
@@ -2917,7 +2917,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .car-box-3 .custom-list li a{
-    color: #535353;
+    color:#85C598;
 }
 
 .car-box-3 .detail .title {
@@ -3003,11 +3003,11 @@ input[type=checkbox]:checked + label:before {
     text-align: center;
     width: 48px;
     border-left: 1px solid #e5e5e5;
-    color: #535353;
+    color:#85C598;
 }
 
 .car-box-3 .footer {
-    color: #535353;
+    color:#85C598;
     font-size: 15px;
     border-top: solid 1px #efefef;
 }
@@ -3204,7 +3204,7 @@ input[type=checkbox]:checked + label:before {
     position: relative;
     top: -30px;
     font-weight: 400;
-    color: #535353;
+    color:#85C598;
 }
 
 .pricing-1 .plan-header .plan-price {
@@ -3322,7 +3322,7 @@ input[type=checkbox]:checked + label:before {
 
 .team-1 .details h5 {
     font-size: 15px;
-    color: #535353;
+    color:#85C598;
     font-weight: 400;
 }
 
@@ -3385,7 +3385,7 @@ input[type=checkbox]:checked + label:before {
     margin: 0 0 20px;
     font-size: 13px;
     font-weight: 500;
-    color: #535353;
+    color:#85C598;
     text-transform: uppercase;
 }
 
@@ -3617,7 +3617,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .blog-3 .post-meta ul li a {
-    color: #535353;
+    color:#85C598;
 }
 
 .blog-3 .post-meta ul li i {
@@ -3635,7 +3635,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .blog-3 .detail h3 a:hover {
-    color: #535353;
+    color:#85C598;
 }
 
 .blog-3 .post-meta ul li i {
@@ -3717,7 +3717,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .blog-big h3 a:hover{
-    color: #535353;
+    color:#85C598;
 }
 
 .blog-big .detail {
@@ -3815,7 +3815,7 @@ input[type=checkbox]:checked + label:before {
 .table-bordered {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: #535353;
+    color:#85C598;
     font-size: 15px;
 }
 
@@ -4004,11 +4004,11 @@ footer {
 }
 
 .footer .s-border {
-    background: #525252;
+    background: #85C598;
 }
 
 .footer .m-border {
-    background: #525252;
+    background: #85C598;
 }
 
 /** Brand box start **/
@@ -4034,7 +4034,7 @@ footer {
 .brand-box h6 {
     margin: 0;
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
 }
 
 .view-all ul {
@@ -4058,7 +4058,7 @@ footer {
     background: #fff;
     box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
     text-decoration: none;
-    color: #535353;
+    color:#85C598;
 }
 
 .view-all h3 {
@@ -4104,7 +4104,7 @@ footer {
 }
 
 .posts-by-category ul li a {
-    color: #535353;
+    color:#85C598;
     font-weight: 500;
     font-size: 15px;
 }
@@ -4126,7 +4126,7 @@ footer {
 .tags-box ul li a {
     border: 1px solid #f3f3f3;
     background: #f3f3f3;
-    color: #535353;
+    color:#85C598;
     display: inline-block;
     font-size: 14px;
     margin: 0 0 5px;
@@ -4162,11 +4162,11 @@ footer {
 
 .recent-posts .listing-post-meta {
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
 }
 
 .recent-posts .listing-post-meta a{
-    color: #535353;
+    color:#85C598;
 }
 
 /** Best team start **/
@@ -4194,7 +4194,7 @@ footer {
     margin-bottom: 3px;
     font-size: 14px;
     font-weight: 400;
-    color: #535353;
+    color:#85C598;
 }
 
 .best-team .media .media-body li i {
@@ -4863,7 +4863,7 @@ footer {
 }
 
 .comment-content h6 span a:hover{
-    color: #535353!important;
+    color:#85C598!important;
 }
 
 .comment-content .comment-rating {
@@ -5049,7 +5049,7 @@ footer {
 .contact-2 .contact-info strong {
     font-weight: 500;
     font-size: 14px;
-    color: #525252;
+    color: #85C598;
 }
 
 .contact-2 .contact-info i {
@@ -5165,7 +5165,7 @@ footer {
 .financing-calculator .form-label {
     margin-bottom: 8px;
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -5520,7 +5520,7 @@ footer {
 
 .contact-section .form-section p a{
     font-weight: 400;
-    color: #535353;
+    color:#85C598;
 }
 
 .contact-section .form-section .extra-login {
@@ -5779,7 +5779,7 @@ footer {
 }
 
 .contact-section .google-bg {
-    background: #db4437;
+    background: #4E1219;
     color: #fff;
 }
 
@@ -5901,7 +5901,7 @@ footer {
 
 .range-slider label {
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
     font-weight: 500;
     margin-bottom: 12px;
 }
@@ -5978,7 +5978,7 @@ footer {
     width: 40%;
     margin-right: -8px;
     font-size: 13px;
-    color: #535353;
+    color:#85C598;
     font-weight: 500;
     margin-top: 15px;
 }
@@ -5989,7 +5989,7 @@ footer {
     text-align: right;
     margin-right: -8px;
     font-size: 13px;
-    color: #535353;
+    color:#85C598;
     font-weight: 500;
     margin-top: 15px;
 }
@@ -6157,7 +6157,7 @@ footer {
 .blog-tags a {
     border: 1px solid #f3f3f3;
     background: #f3f3f3;
-    color: #535353;
+    color:#85C598;
     display: inline-block;
     font-size: 14px;
     margin: 0 0 5px;
@@ -6350,7 +6350,7 @@ footer {
     text-decoration: none;
     float: right;
     margin-left: 15px;
-    color: #525252;
+    color: #85C598;
 }
 
 .footer .listing-meta span a i {
@@ -6392,7 +6392,7 @@ footer {
 .form-group label, .checkbox label {
     font-weight: 400;
     font-size: 14px;
-    color: #535353;
+    color:#85C598;
 }
 
 /** Dashboard nav start **/
@@ -6703,7 +6703,7 @@ footer {
 .heading-car h6{
     font-size: 15px;
     margin-bottom: 0;
-    color: #535353;
+    color:#85C598;
 }
 
 .heading-car h6 i{
@@ -7067,7 +7067,7 @@ table {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 17px;
-    color: #525252;
+    color: #85C598;
 }
 
 .shop-table.cart .t-600{
@@ -7100,7 +7100,7 @@ table {
 .shop-table input[type="text"], input[type="email"], textarea, input[type="password"], input[type="tel"] {
     border: 1px solid #e8e8e8;
     padding: 6px 15px;
-    color: #525252;
+    color: #85C598;
     max-width: 100%;
     outline: none;
 }
@@ -7257,7 +7257,7 @@ table {
     display: inline-block;
     text-decoration: none;
     font-size: 16px;
-    color: #535353;
+    color:#85C598;
 }
 
 .faq-box .card-header {
@@ -7287,7 +7287,7 @@ table {
 .faq-accordion .p-text{
     padding: 20px 0 50px;
     line-height: 30px;
-    color: #535353;
+    color:#85C598;
 }
 
 .faq-accordion .card-header {
@@ -7807,7 +7807,7 @@ table {
     background: #fff;
     text-align: center;
     font-size: 15px;
-    color: #535353;
+    color:#85C598;
     margin-bottom: 30px;
 }
 
@@ -7993,7 +7993,7 @@ table {
     position: fixed;
     top: 15px;
     right: 15px;
-    color: #535353;
+    color:#85C598;
     opacity: 1;
     padding: 10px 17px;
     font-size: 17px;

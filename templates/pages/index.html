@@ -13,8 +13,8 @@
     <div class="container">
         <!-- Main title -->
         <div class="main-title">
-            <h1>Recettes <span>à l'aune</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h1>Les recettes <span>du moment</span></h1>
+            <p>Retrouvez les recettes du moment adaptées à vos goûts et contraintes.</p>
         </div>
         <!-- Slick slider area start -->
         <div class="slick-slider-area clearfix">
@@ -24,7 +24,7 @@
                     <div class="car-box-3">
                         <div class="car-thumbnail">
                             <a href="car-details.html" class="car-img">
-                                <div class="tag-2">A l'aune</div>
+                                <div class="tag-2">A la une</div>
                                 <div class="price-box">
                                     <span> <i class="flaticon-cooking-time"></i> {{ recipe.cooking_time }}  </span>
                                 </div>
@@ -91,8 +91,8 @@
     <div class="container">
         <!-- Main title -->
         <div class="main-title">
-            <h1>Dernière <span>Recettes</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h1>Recettes <span>récemment ajoutées</span></h1>
+            <p>En panne d'inspiration ? Trouvez une idée de recette grâce aux derniers ajouts sur Comégusto.</p>
         </div>
         <div class="row">
             {% for recipe in all_recipe %}
@@ -167,44 +167,6 @@
 </div>
 <!-- Rent car end -->
 
-<!-- Our team start -->
-<div class="our-team content-area bg-grea-3">
-    <div class="container">
-        <!-- Main title -->
-        <div class="main-title">
-            <h1>Executive <span>Team</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-        </div>
-        <!-- Slick slider area start -->
-        <div class="slick-slider-area clearfix">
-            <div class="row slick-carousel" data-slick='{"slidesToShow": 4, "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 2}}, {"breakpoint": 768,"settings":{"slidesToShow": 1}}]}'>
-                
-                {% for row in teams %}
-                <div class="slick-slide-item">
-                    <div class="team-1">
-                        <div class="photo">
-                            <a href="#">
-                                <img src="{{ row.photo.url }}" alt="team-1" class="img-fluid">
-                            </a>
-                            <div class="social-list clearfix">
-                                <a href="{{ row.facebook_link }}" class="facebook-bg"><i class="fa fa-facebook"></i></a>
-                                <a href="{{ row.twitter_link }}" class="twitter-bg"><i class="fa fa-twitter"></i></a>
-                                <a href="{{ row.linkedin_link }}" class="linkedin-bg"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="details">
-                            <h4><a href="team-detail.html">{{ row.first_name }} {{ row.last_name }}</a></h4>
-                            <h5>{{ row.job_title }}</h5>
-                        </div>
-                    </div>
-                </div>
-              {% endfor %}
-
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Our team end -->
 
 <!-- Intro section start -->
 <div class="intro-section">
@@ -216,7 +178,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-12">
-                <a href="contact.html" class="btn btn-md">Contactez-nous</a>
+                <a href="contact.html" class="btn btn-md red">Contactez-nous</a>
             </div>
         </div>
     </div>
